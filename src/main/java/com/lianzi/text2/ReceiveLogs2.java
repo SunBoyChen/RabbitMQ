@@ -8,7 +8,7 @@ import java.util.concurrent.TimeoutException;
 /**
  * 消费者1
  */
-public class ReceiveLogs1 {
+public class ReceiveLogs2 {
     //交换机
     private  static  final  String EXCHANG_NAME= "logs";
     public static void main(String[] args) throws IOException, TimeoutException {
